@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=a\ f\ s\ tr\ ts
+comment0.target=Aircraft(java.lang.String,\ int,\ int,\ double,\ int)
+comment1.params=
+comment1.target=void\ aircraftInformation()
+comment2.params=
+comment2.target=java.lang.String\ getAllData()
+numComments=3

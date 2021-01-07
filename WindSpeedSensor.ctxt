@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ WindSpeedSensor()
+comment1.params=windData
+comment1.target=void\ setWindData(Wind)
+comment2.params=
+comment2.target=Wind\ sendToController()
+comment3.params=
+comment3.target=void\ showDataInfo()
+numComments=4

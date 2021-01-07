@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AircraftSpeedSensor()
+comment1.params=aircraftData
+comment1.target=void\ setAircraftData(Aircraft)
+comment2.params=
+comment2.target=void\ showDataInfo()
+comment3.params=
+comment3.target=Aircraft\ sendToController()
+numComments=4

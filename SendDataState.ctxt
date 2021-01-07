@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=controller
+comment0.target=SendDataState(SensorController)
+comment1.params=
+comment1.target=void\ activate()
+comment2.params=
+comment2.target=void\ shutDown()
+comment3.params=
+comment3.target=void\ saveToDB()
+comment4.params=
+comment4.target=void\ idle()
+comment5.params=
+comment5.target=void\ reactivate()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

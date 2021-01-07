@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ activate()
+comment1.params=
+comment1.target=void\ shutDown()
+comment2.params=
+comment2.target=void\ idle()
+comment3.params=
+comment3.target=void\ reactivate()
+comment4.params=
+comment4.target=void\ saveToDB()
+numComments=5
